@@ -15,6 +15,11 @@
     ],
     "require": {
         "php": ">=5.4",
+        "brain/brain": "dev-master",
+        "brain/support": "dev-master",
+        "brain/amygdala": "dev-master",
+        "brain/striatum": "dev-master",
+        "symfony/routing": "2.*",
         "brain/cortex": "dev-master",
         "composer/installers": "~1.0"
     },
