@@ -13,7 +13,7 @@ if ( ! defined( 'ABSPATH' ) ) exit();
 
 if ( ! defined( 'CORTEXBASEPATH' ) ) define( 'CORTEXBASEPATH', plugin_dir_path( __FILE__ ) );
 
-if ( ! class_exists( 'Brain\Container' ) && is_file( CORTEXBASEPATH . 'vendor/autoload.php' ) ) {
+if ( ! class_exists( 'Brain\Cortex' ) && is_file( CORTEXBASEPATH . 'vendor/autoload.php' ) ) {
 	require_once CORTEXBASEPATH . 'vendor/autoload.php';
 }
 
