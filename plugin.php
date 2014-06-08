@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Cortex Plugin
- * Plugin URI: https://github.com/Giuseppe-Mazzapica/Cortex
+ * Plugin URI: http://giuseppe-mazzapica.github.io/Cortex/
  * Description: Cortex implements a routing system in WordPress.
  * Version: 0.1.0
  * Author: Giuseppe Mazzapica
