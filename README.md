@@ -14,5 +14,5 @@ Issues are disabled in this repo, please post any issue on [package repository][
   [1]: https://googledrive.com/host/0Bxo4bHbWEkMscmJNYkx6YXctaWM/cortex.png
   [2]: http://symfony.com/doc/current/components/routing/introduction.html
   [3]: http://giuseppe-mazzapica.github.io/Brain/
-  [4]: http://giuseppe-mazzapica.github.io/Cortex/index.html
+  [4]: http://cortex.zoomlab.it/index.html
   [5]: https://github.com/Giuseppe-Mazzapica/Cortex
