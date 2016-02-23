@@ -3,7 +3,7 @@
     "description": "Cortex is a plugin that implements a routing system in WordPress.",
     "type": "wordpress-plugin",
     "keywords": ["wordpress"],
-    "homepage": "https://github.com/Giuseppe-Mazzapica/Cortex-Plugin",
+    "homepage": "https://github.com/Brain-WP/Cortex-Plugin",
     "license": "GPL-2.0+",
     "authors": [
         {
