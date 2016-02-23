@@ -15,12 +15,12 @@
     ],
     "require": {
         "php": ">=5.4",
-        "brain/brain": "dev-master",
-        "brain/support": "dev-master",
-        "brain/amygdala": "dev-master",
-        "brain/striatum": "dev-master",
+        "brain/brain": "~0.1.0",
+        "brain/support": "~0.1.0",
+        "brain/amygdala": "~0.1.0",
+        "brain/striatum": "~0.1.0",
         "symfony/routing": "2.*",
-        "brain/cortex": "dev-master",
+        "brain/cortex": "~0.1.0",
         "composer/installers": "~1.0"
     },
     "minimum-stability": "dev",
